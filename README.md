@@ -1,5 +1,5 @@
 # kaggle
-My kaggle projects.
+My Kaggle projects.
 
 ## Titanic
 
