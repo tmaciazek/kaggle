@@ -12,3 +12,10 @@ Afted data cleaning ([titanic_data_cleaning.ipynb](https://github.com/tmaciazek/
 -  a random forest ([random_forest.ipynb](https://github.com/tmaciazek/kaggle/blob/main/titanic/random_forest.ipynb)).
 
 ## Natural Language Processing with Disaster Tweets
+
+This is the [Natural Language Processing with Disaster Tweets](https://www.kaggle.com/competitions/nlp-getting-started) competition.
+
+The file [tweets_preprocessing.ipynb](https://github.com/tmaciazek/kaggle/blob/main/NLP_disaster_tweets/tweets_preprocessing.ipynb) contains data cleaning and processing, in particular:
+-  inferring location country from location data and from the text of the tweet,
+-  tweet text cleaning and tokenization,
+-  applying word embeddings using the GloVe dataset [glove.twitter.27B](https://nlp.stanford.edu/data/glove.twitter.27B.zip).
