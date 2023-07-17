@@ -24,4 +24,4 @@ The cleaned data is subsequently fed into a recurrent neural net with two bidire
 
 <img src="NLP_disaster_tweets/net.png" width="620" height="500"> 
 
-This can be found in the notebook [lstm.ipynb](NLP_disaster_tweets/lstm.ipynb)
+This can be found in the notebook [lstm.ipynb](NLP_disaster_tweets/lstm.ipynb).
