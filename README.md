@@ -20,5 +20,8 @@ The file [tweets_preprocessing.ipynb](https://github.com/tmaciazek/kaggle/blob/m
 -  tweet text cleaning and tokenization,
 -  applying word embeddings using the GloVe dataset [glove.twitter.27B](https://nlp.stanford.edu/data/glove.twitter.27B.zip).
 
-The cleaned data is subsequently fed into a recurrent neural net shown in the schamtic picture below.
+The cleaned data is subsequently fed into a recurrent neural net with two bidirectional LSTM layers shown in the schamtic picture below.
+
 <img src="NLP_disaster_tweets/net.png" width="620" height="500"> 
+
+This can be found in the notebook [lstm.ipynb](NLP_disaster_tweets/lstm.ipynb)
