@@ -71,7 +71,7 @@
 69,United States
 70,Worldwide
 71,Cape Verde
-72,Reunion
+72,France
 73,France
 74,France
 75,Turkey
@@ -97,7 +97,7 @@
 95,Worldwide
 96,Worldwide
 97,Worldwide
-98,Niger
+98,Nigeria
 99,Worldwide
 100,Worldwide
 101,United States
@@ -148,7 +148,7 @@
 146,Turkey
 147,United States
 148,Worldwide
-149,Russia
+149,Russian Federation
 150,Brazil
 151,Worldwide
 152,Worldwide
@@ -388,7 +388,7 @@
 386,Turkmenistan
 387,Worldwide
 388,Worldwide
-389,Papua New Guinea
+389,Philippines
 390,Worldwide
 391,Worldwide
 392,Worldwide
@@ -445,7 +445,7 @@
 443,United States
 444,South Africa
 445,Worldwide
-446,Botswana
+446,Cameroon
 447,Bahamas
 448,Worldwide
 449,United States
@@ -467,7 +467,7 @@
 465,Sierra Leone
 466,United States
 467,Worldwide
-468,Colombia
+468,Sierra Leone
 469,Colombia
 470,Worldwide
 471,Japan
@@ -489,19 +489,19 @@
 487,Worldwide
 488,Worldwide
 489,United States
-490,Japan
+490,Russia
 491,Japan
 492,India
 493,Worldwide
 494,United States
-495,Eritrea
+495,Niger
 496,United States
 497,Worldwide
 498,Japan
 499,United States
 500,Japan
 501,Philippines
-502,Cameroon
+502,Botswana
 503,United Kingdom
 504,Japan
 505,Philippines
@@ -624,7 +624,7 @@
 622,Worldwide
 623,Worldwide
 624,United States
-625,Niger
+625,Nigeria
 626,United States
 627,Japan
 628,Yemen
@@ -642,7 +642,7 @@
 640,United States
 641,Worldwide
 642,Worldwide
-643,Venezuela
+643,Iceland
 644,Canada
 645,Worldwide
 646,United States
@@ -720,7 +720,7 @@
 718,Worldwide
 719,United States
 720,Worldwide
-721,Indonesia
+721,Equatorial Guinea
 722,United States
 723,Jersey
 724,Worldwide
@@ -989,7 +989,7 @@
 987,Nigeria
 988,United States
 989,Worldwide
-990,Niger
+990,Nigeria
 991,Worldwide
 992,Russia
 993,Worldwide
@@ -1065,13 +1065,13 @@
 1063,India
 1064,Worldwide
 1065,United States
-1066,India
+1066,Côte d'Ivoire
 1067,United States
 1068,United States
 1069,India
 1070,Worldwide
 1071,Worldwide
-1072,India
+1072,Côte d'Ivoire
 1073,Worldwide
 1074,India
 1075,United States
@@ -1188,7 +1188,7 @@
 1186,United States
 1187,Worldwide
 1188,Worldwide
-1189,Zambia
+1189,Northern Mariana Islands
 1190,Montenegro
 1191,Northern Mariana Islands
 1192,Worldwide
@@ -1251,7 +1251,7 @@
 1249,Honduras
 1250,Worldwide
 1251,Canada
-1252,Spain
+1252,Indonesia
 1253,United States
 1254,Worldwide
 1255,Worldwide
@@ -1344,7 +1344,7 @@
 1342,Australia
 1343,Worldwide
 1344,Worldwide
-1345,Italy
+1345,Algeria
 1346,Indonesia
 1347,Worldwide
 1348,Worldwide
@@ -1452,7 +1452,7 @@
 1450,Worldwide
 1451,Worldwide
 1452,Worldwide
-1453,Nigeria
+1453,Niger
 1454,Canada
 1455,Worldwide
 1456,United States
@@ -1508,7 +1508,7 @@
 1506,New Zealand
 1507,United States
 1508,United States
-1509,Mozambique
+1509,West Bank and Gaza Strip
 1510,Worldwide
 1511,United States
 1512,Japan
@@ -1550,7 +1550,7 @@
 1548,Worldwide
 1549,Worldwide
 1550,Worldwide
-1551,Brazil
+1551,Germany
 1552,
 1553,Worldwide
 1554,Worldwide
@@ -1655,7 +1655,7 @@
 1653,United States
 1654,United States
 1655,United States
-1656,Sierra Leone
+1656,Montenegro
 1657,United States
 1658,Canada
 1659,United States
@@ -1716,7 +1716,7 @@
 1714,Sierra Leone
 1715,Japan
 1716,United States
-1717,Morocco
+1717,Cape Verde
 1718,Chile
 1719,Worldwide
 1720,United States
@@ -1730,7 +1730,7 @@
 1728,Worldwide
 1729,Canada
 1730,United States
-1731,Cameroon
+1731,Botswana
 1732,Canada
 1733,Worldwide
 1734,Canada
@@ -1849,7 +1849,7 @@
 1847,Worldwide
 1848,Worldwide
 1849,Worldwide
-1850,Niger
+1850,China
 1851,Australia
 1852,Worldwide
 1853,Georgia
@@ -1865,7 +1865,7 @@
 1863,Worldwide
 1864,Worldwide
 1865,United States
-1866,Myanmar
+1866,Canada
 1867,Worldwide
 1868,Pakistan
 1869,Ireland
@@ -2150,7 +2150,7 @@
 2148,Worldwide
 2149,United States
 2150,Nepal
-2151,United States
+2151,Nepal
 2152,Worldwide
 2153,Canada
 2154,
@@ -2286,7 +2286,7 @@
 2284,India
 2285,Worldwide
 2286,United States
-2287,Niger
+2287,Nigeria
 2288,Worldwide
 2289,Worldwide
 2290,Worldwide
@@ -2326,10 +2326,10 @@
 2324,United States
 2325,Uganda
 2326,United States
-2327,Niger
+2327,Nigeria
 2328,United States
 2329,United States
-2330,Sierra Leone
+2330,Belgium
 2331,Worldwide
 2332,Worldwide
 2333,United States
@@ -2380,7 +2380,7 @@
 2378,Worldwide
 2379,Worldwide
 2380,Uruguay
-2381,Zimbabwe
+2381,Ethiopia
 2382,Worldwide
 2383,United States
 2384,United States
@@ -2399,15 +2399,15 @@
 2397,Nigeria
 2398,France
 2399,Worldwide
-2400,Niger
+2400,Nigeria
 2401,Germany
 2402,Cameroon
 2403,Australia
 2404,Syria
-2405,Cameroon
+2405,Niger
 2406,Worldwide
 2407,Worldwide
-2408,Nigeria
+2408,Niger
 2409,Worldwide
 2410,Worldwide
 2411,United States
@@ -2430,10 +2430,10 @@
 2428,Niger
 2429,United Kingdom
 2430,United Kingdom
-2431,Nigeria
+2431,Niger
 2432,Kenya
 2433,Greece
-2434,Pakistan
+2434,India
 2435,United Kingdom
 2436,Worldwide
 2437,Italy
@@ -2593,7 +2593,7 @@
 2591,Worldwide
 2592,Worldwide
 2593,Worldwide
-2594,Gabon
+2594,Somalia
 2595,Worldwide
 2596,United States
 2597,United States
@@ -2679,7 +2679,7 @@
 2677,Worldwide
 2678,United Kingdom
 2679,United States
-2680,Cameroon
+2680,Botswana
 2681,United States
 2682,Worldwide
 2683,United Kingdom
@@ -2730,18 +2730,18 @@
 2728,Italy
 2729,United States
 2730,Worldwide
-2731,Niger
+2731,Nigeria
 2732,Worldwide
 2733,Turkey
 2734,Turkey
-2735,Nigeria
+2735,Niger
 2736,Worldwide
 2737,Turkey
 2738,Turkey
 2739,Worldwide
 2740,Niger
-2741,Nigeria
-2742,Niger
+2741,Niger
+2742,Nigeria
 2743,United Kingdom
 2744,Niger
 2745,Worldwide
@@ -2807,7 +2807,7 @@
 2805,Worldwide
 2806,Worldwide
 2807,Worldwide
-2808,Iceland
+2808,Venezuela
 2809,Worldwide
 2810,Worldwide
 2811,Brazil
@@ -2870,7 +2870,7 @@
 2868,Niger
 2869,Worldwide
 2870,United States
-2871,Zambia
+2871,Cameroon
 2872,Worldwide
 2873,Iraq
 2874,Worldwide
@@ -3058,7 +3058,7 @@
 3056,Worldwide
 3057,Worldwide
 3058,Worldwide
-3059,Russian Federation
+3059,Russia
 3060,Worldwide
 3061,India
 3062,Sierra Leone
@@ -3128,7 +3128,7 @@
 3126,Worldwide
 3127,Japan
 3128,Worldwide
-3129,Niger
+3129,Nigeria
 3130,Worldwide
 3131,Montenegro
 3132,United States
@@ -3169,7 +3169,7 @@
 3167,Worldwide
 3168,United States
 3169,Worldwide
-3170,Cameroon
+3170,Zambia
 3171,Worldwide
 3172,United States
 3173,United States
@@ -3200,7 +3200,7 @@
 3198,Worldwide
 3199,Worldwide
 3200,Worldwide
-3201,Colombia
+3201,Zambia
 3202,Worldwide
 3203,South Africa
 3204,Lesotho
