@@ -19,3 +19,5 @@ The file [tweets_preprocessing.ipynb](https://github.com/tmaciazek/kaggle/blob/m
 -  inferring location country from location data and from the text of the tweet,
 -  tweet text cleaning and tokenization,
 -  applying word embeddings using the GloVe dataset [glove.twitter.27B](https://nlp.stanford.edu/data/glove.twitter.27B.zip).
+
+The cleaned data is subsequently fed into a recurrent neural net. 
